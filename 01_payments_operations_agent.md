@@ -1,4 +1,4 @@
-# Building and Invoking an AI Agent with Microsoft Foundry — A Payments Operations Example
+# Agent Fundamentals - Building and Invoking an AI Agent with Microsoft Foundry — A Payments Operations Example
 
 As part of my **AI-103 learning journey**, I've been exploring how to create and invoke AI agents using Microsoft Foundry.
 
